@@ -18,11 +18,13 @@ My goals for next week are:
 FP2:  
 
 My Contribution for this week is:
-
+I updated the code to safely display additional dictionary metadata, avoided SELECT *, 
+and applied output escaping for better security and maintainability.
 
 My goals for next week are:
 
-
+I am sharing the project details with the team,
+and I will complete the tasks that have been assigned to me
 --------------------------------------------------------
 FP3:  
 
@@ -112,3 +114,4 @@ My goals for next week are:
 
 
 --------------------------------------------------------
+
