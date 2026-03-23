@@ -1,0 +1,117 @@
+Note: 1. Write your name  2. Fill this form each week  3. Do not delete the previous week's data (I should be able to see your progress)
+
+
+ICS 325 Internet Application Development  
+
+Student Name: 
+
+
+FP1: 
+
+My Contribution for this week is:
+
+
+My goals for next week are:
+
+
+--------------------------------------------------------
+FP2:  
+
+My Contribution for this week is:
+I updated the code to safely display additional dictionary metadata, avoided SELECT *, 
+and applied output escaping for better security and maintainability.
+
+My goals for next week are:
+
+I am sharing the project details with the team,
+and I will complete the tasks that have been assigned to me
+--------------------------------------------------------
+FP3:  
+
+My Contribution for this week is:
+
+
+My goals for next week are:
+
+
+
+--------------------------------------------------------
+FP4:     
+
+My Contribution for this week is:
+
+
+My goals for next week are:
+
+
+
+--------------------------------------------------------
+
+FP5:   
+
+My Contribution for this week is:
+
+
+My goals for next week are:
+
+
+
+--------------------------------------------------------
+ 
+FP6:  
+
+My Contribution for this week is:
+
+
+My goals for next week are:
+
+
+
+--------------------------------------------------------
+ 
+FP7:  
+
+My Contribution for this week is:
+
+
+My goals for next week are:
+
+
+
+--------------------------------------------------------
+  
+FP8:  
+
+My Contribution for this week is:
+
+
+My goals for next week are:
+
+
+
+--------------------------------------------------------
+
+  
+FP9:  
+
+My Contribution for this week is:
+
+
+My goals for next week are:
+
+
+
+--------------------------------------------------------
+
+  
+FP Final Iteration / Handoff (This is the iteration where you submit the code to the dropbox)
+
+My Contribution for this week is:
+
+
+My goals for next week are:
+
+
+
+--------------------------------------------------------
+
